@@ -1,6 +1,6 @@
 #LunnoxSofware
 
-[FREE VERSION]
+
 
 ## +Script works on Windows: 10,11,8.
 ## +Check for anticheat detection every 2 hours.
@@ -10,7 +10,7 @@
                                    [FREE VERSION]
 
 
-[PRO VERSION]
+
 ## !Script works on Windows: 10,11,8.
 ## !Check for anticheat detection every 30 minutes.
 ## !Update in pro version every 2 hours. 
